@@ -37,7 +37,7 @@ Then go to `File->RunScript...` and use `Browse...` button for `ResCodeScript.pa
 | 2.8K       | 282    |
 | 2K8        | 282    |
 | 2.8KΩ      | 282    |
-| 2.8K(1%)   | 3301   |
+| 2.8K(1%)   | 2811   |
 | 2.8K(EIA-96 = 1) | 44B |
 
 ### Tutorial video
