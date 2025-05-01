@@ -41,4 +41,4 @@ Then go to `File->RunScript...` and use `Browse...` button for `ResCodeScript.pa
 | 2.8K(EIA-96 = 1) | 44B |
 
 ### Tutorial video
-▶️ [Watch Tutorial](https://youtu.be/y3YvzFNV7BU)
+▶️ [Watch Tutorial](https://www.youtube.com/watch?v=o0m7egEYXtE)
